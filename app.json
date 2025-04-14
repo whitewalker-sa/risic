@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e40ccfdc-199d-4a76-a9e6-d7f60d435480"
+      }
+    },
+    "owner": "barayiti"
   }
 }
